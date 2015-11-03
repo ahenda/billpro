@@ -11,10 +11,14 @@ $indexFile = "../index.php";
 $configFolder = "../sma/config";
 $configFile = "../sma/config/config.php";
 $dbFile = "../sma/config/database.php";
-if (is_file($installFile)) { 
+/*if (is_file($installFile)) {}else{
+	echo "<div style='width: 100%; font-size: 10em; color: #757575; text-shadow: 0 0 2px #333, 0 0 2px #333, 0 0 2px #333; text-align: center;'><i class='icon-lock'></i></div><h3 class='alert-text text-center'>Installer is locked!<br><small style='color:#666;'>Please contact your developer/support.</small></h3>";
+}*/
 
-	switch($_GET['step']){
-		default: ?>
+
+
+switch($_GET['step']){
+	default: ?>
 		<ul class="steps">
 			<li class="active pk">Checklist</li>
 			<li>Verify</li>
@@ -428,9 +432,7 @@ if (is_file($installFile)) {
   	}
   }
 
-}else{
-	echo "<div style='width: 100%; font-size: 10em; color: #757575; text-shadow: 0 0 2px #333, 0 0 2px #333, 0 0 2px #333; text-align: center;'><i class='icon-lock'></i></div><h3 class='alert-text text-center'>Installer is locked!<br><small style='color:#666;'>Please contact your developer/support.</small></h3>";
-}
+
 ?>
 
 
