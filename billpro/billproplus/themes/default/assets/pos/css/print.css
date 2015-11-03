@@ -1,0 +1,15 @@
+* { margin:0; padding:0;  }
+body, #wrapper, #print, #content, #pos, #printhead { min-width: 200px !important; width: 100% !important; margin: 0 !important; font-family: Arial, Helvetica, sans-serif !important; font-weight:normal !important; font-size:11px !important; text-transform: uppercase !important; color: #000000; }
+#wrapper { position: static; }
+#leftdiv { margin:0; padding:0; min-width: 0 !important; }
+#cp, #header, #left-bottom, #satu, #theTime, #totalTable, .btn-cat-con, .items th:last-child, .items td:last-child, .items th:nth-child(2), .items  td:nth-child(2), .items th:nth-child(4), .items td:nth-child(4), .edit, .table, div { display: none; }
+#product-list, table, table td { padding: 0px !important; border: 0 !important; width: 100% !important; font-size:11px !important; }
+#left-middle, #product-list { min-height: 0 !important; height: auto !important; overflow: visible !important; border: 0 !important; }
+table td, table th { color: #000000 !important; font-size:11px !important; }
+.table .table-bordered { border-color: #000000 !important; }
+#print, #printhead, #printfooter { border-bottom: 1px solid #999; text-align:center; display: block !important; }
+.select2-container, .select2-choice, .select2-chosen { min-width: 200px !important; width: 100% !important; text-align: center !important; font-weight: bold; letter-spacing: normal; border: none !important; font-size: 11px; }
+input { border:  none !important; }
+.prT td { border-bottom: 1px dotted #999; }
+.print, #order_tbl { display: block !important; }
+.no-print { display: none !important; }
