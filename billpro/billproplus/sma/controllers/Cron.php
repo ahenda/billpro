@@ -15,12 +15,12 @@ class Cron extends CI_Controller
 
     function run()
     {
-        $this->load->model('cron_model');
+        /* $this->load->model('cron_model');
         if ($m = $this->cron_model->run_corn()) {
             echo '<p>Corn job successfully run</p>' . $m;
         } else {
             echo 'Corn job failed!';
-        }
+        } */
     }
 
     function log_corn($msg, $val = NULL)
