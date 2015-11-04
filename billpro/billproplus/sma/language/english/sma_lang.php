@@ -12,7 +12,7 @@
  *
  * You can translate this file to your language.
  * For instruction on new language setup, please visit the documentations.
- * You also can share your language files by emailing to saleem@tecdiary.com
+ * You also can share your language files by emailing to support@ahenapps.com
  * Thank you
  */
 
@@ -22,7 +22,7 @@
 * Please only change the part after = and make sure you change the the words in between "";
 * $lang['bcf1']                         = "Biller Custom Field 1";
 * Don't change this                     = "You can change this part";
-* For support email contact@tecdiary.com Thank you!
+* For support email support@ahenapps.com Thank you!
 */
 
 $lang['bcf1']                           = "Biller Custom Field 1";
@@ -56,7 +56,7 @@ $lang['scf6']                           = "Supplier Custom Field 6";
 * Please only change the part after = and make sure you change the the words in between "";
 * 'sEmptyTable'                     => "No data available in table",
 * Don't change this                 => "You can change this part but not the word between and ending with _ like _START_;
-* For support email support@tecdiary.com Thank you!
+* For support email support@ahenapps.com Thank you!
 */
 
 $lang['datatables_lang']        = array(
@@ -89,7 +89,7 @@ $lang['datatables_lang']        = array(
 * Please only change the part after = and make sure you change the the words in between "";
 * 's2_errorLoading'                 => "The results could not be loaded",
 * Don't change this                 => "You can change this part but not the word between {} like {t};
-* For support email support@tecdiary.com Thank you!
+* For support email support@ahenapps.com Thank you!
 */
 
 $lang['select2_lang']               = array(
