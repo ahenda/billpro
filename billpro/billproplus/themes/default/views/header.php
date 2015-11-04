@@ -267,14 +267,14 @@
                                                                     href="<?= site_url('products/import_csv'); ?>"><i
                                                 class="fa fa-file-text"></i><span
                                                 class="text"> <?= lang('import_products'); ?></span></a></li>
-                                    <li id="products_update_price"><a class="submenu"
+                                  <!--   <li id="products_update_price"><a class="submenu"
                                                                       href="<?= site_url('products/update_price'); ?>"><i
                                                 class="fa fa-money"></i><span
                                                 class="text"> <?= lang('update_price'); ?></span></a></li>
                                     <li id="products_quantity_adjustments"><a class="submenu"
                                                                          href="<?= site_url('products/quantity_adjustments'); ?>"><i
                                                 class="fa fa-filter"></i><span
-                                                class="text"> <?= lang('quantity_adjustments'); ?></span></a></li>
+                                                class="text"> <?= lang('quantity_adjustments'); ?></span></a></li> --> 
                                 </ul>
                             </li>
 
@@ -294,9 +294,9 @@
                                     <li id="sales_add"><a class="submenu" href="<?= site_url('sales/add'); ?>"><i
                                                 class="fa fa-plus-circle"></i><span
                                                 class="text"> <?= lang('add_sale'); ?></span></a></li>
-                                    <li id="sales_sale_by_csv"><a class="submenu"
-                                                                          href="<?= site_url('sales/sale_by_csv'); ?>"><i
-                                                class="fa fa-plus-circle"></i><span
+                                   <!--  <li id="sales_sale_by_csv">
+                                      <a class="submenu" href="<?= site_url('sales/sale_by_csv'); ?>">
+                                      <i class="fa fa-plus-circle"></i><span
                                                 class="text"> <?= lang('add_sale_by_csv'); ?></span></a></li>
                                     <li id="sales_deliveries"><a class="submenu"
                                                                  href="<?= site_url('sales/deliveries'); ?>"><i
@@ -309,7 +309,7 @@
                                     <li id="sales_return_sales"><a class="submenu"
                                                                    href="<?= site_url('sales/return_sales'); ?>"><i
                                                 class="fa fa-reply"></i><span
-                                                class="text"> <?= lang('list_return_sales'); ?></span></a></li>
+                                                class="text"> <?= lang('list_return_sales'); ?></span></a></li>  -->
                                 </ul>
                             </li>
 
@@ -357,7 +357,7 @@
                                 </ul>
                             </li>
 
-                            <li class="mm_transfers">
+                           <!--  <li class="mm_transfers">
                                 <a class="dropmenu" href="#"><i class="fa fa-star-o"></i><span
                                         class="text"> <?= lang('transfers'); ?> </span> <span
                                         class="chevron closed"></span></a>
@@ -375,7 +375,7 @@
                                                 class="fa fa-plus-circle"></i><span
                                                 class="text"> <?= lang('add_transfer_by_csv'); ?></span></a></li>
                                 </ul>
-                            </li>
+                            </li>  -->
 
                             <li class="mm_auth mm_customers mm_suppliers mm_billers">
                                 <a class="dropmenu" href="#"><i class="fa fa-users"></i><span
@@ -436,10 +436,10 @@
                                                 data-toggle="modal" data-target="#myModal"><i
                                                     class="fa fa-upload"></i><span
                                                     class="text"> <?= lang('change_logo'); ?></span></a></li>
-                                        <li id="system_settings_currencies"><a
+<!--                                         <li id="system_settings_currencies"><a 
                                                 href="<?= site_url('system_settings/currencies') ?>"><i
-                                                    class="fa fa-money"></i><span
-                                                    class="text"> <?= lang('currencies'); ?></span></a></li>
+                                                     class="fa fa-money"></i><span 
+                                                    class="text"> <?= lang('currencies'); ?></span></a></li> -->
                                         <li id="system_settings_customer_groups"><a
                                                 href="<?= site_url('system_settings/customer_groups') ?>"><i
                                                     class="fa fa-chain"></i><span

@@ -29,7 +29,7 @@
                 </div>
                 <div class="mastfoot">
                     <div class="inner">
-                        <p>Stock Manager Advacne by <a href="http://tecdiary.com">Tecdiary</a>.</p>
+                        <p>Bill Pro by <a href="http://ahenapps.com">Ahen Apps</a>.</p>
                     </div>
                 </div>
             </div>
