@@ -222,7 +222,7 @@
     [min_rounds] =&gt; 5
     [max_rounds] =&gt; 9
     [site_title] =&gt; Stock Manager
-    [admin_email] =&gt; contact@tecdiary.com
+    [admin_email] =&gt; support@ahenapps.com
     [default_group] =&gt; customer
     [admin_group] =&gt; admin
     [identity] =&gt; email
@@ -479,7 +479,7 @@
     [min_rounds] =&gt; 5
     [max_rounds] =&gt; 9
     [site_title] =&gt; Stock Manager
-    [admin_email] =&gt; contact@tecdiary.com
+    [admin_email] =&gt; support@ahenapps.com
     [default_group] =&gt; customer
     [admin_group] =&gt; admin
     [identity] =&gt; email
@@ -735,7 +735,7 @@
     [min_rounds] =&gt; 5
     [max_rounds] =&gt; 9
     [site_title] =&gt; Stock Manager
-    [admin_email] =&gt; contact@tecdiary.com
+    [admin_email] =&gt; support@ahenapps.com
     [default_group] =&gt; customer
     [admin_group] =&gt; admin
     [identity] =&gt; email
@@ -991,7 +991,7 @@
     [min_rounds] =&gt; 5
     [max_rounds] =&gt; 9
     [site_title] =&gt; Stock Manager
-    [admin_email] =&gt; contact@tecdiary.com
+    [admin_email] =&gt; support@ahenapps.com
     [default_group] =&gt; customer
     [admin_group] =&gt; admin
     [identity] =&gt; email

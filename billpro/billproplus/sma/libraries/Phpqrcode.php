@@ -3,7 +3,7 @@
 /*
  *  ============================================================================== 
  *  Author	: Mian Saleem
- *  Email	: saleem@tecdiary.com 
+ *  Email	: support@ahenapps.com 
  *  For		: PHP QR Code
  *  Web		: http://phpqrcode.sourceforge.net
  *  License	: open source (LGPL)

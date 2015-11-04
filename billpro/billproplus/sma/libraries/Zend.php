@@ -3,7 +3,7 @@
 /*
  *  ============================================================================== 
  *  Author	: Mian Saleem
- *  Email	: saleem@tecdiary.com 
+ *  Email	: support@ahenapps.com 
  *  For		: Zend Library (Barcode)
  *  Web		: http://zend.com
  *  License	: New BSD License

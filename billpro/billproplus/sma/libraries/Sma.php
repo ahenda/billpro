@@ -3,7 +3,7 @@
 /*
  *  ==============================================================================
  *  Author	: Mian Saleem
- *  Email	: saleem@tecdiary.com
+ *  Email	: support@ahenapps.com
  *  For		: Stock Manager Advance
  *  Web		: http://tecdiary.com
  *  ==============================================================================

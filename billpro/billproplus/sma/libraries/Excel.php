@@ -2,7 +2,7 @@
 /* 
  *  ============================================================================== 
  *  Author	: Mian Saleem
- *  Email	: saleem@tecdiary.com 
+ *  Email	: support@ahenapps.com 
  *  For		: PHPExcel
  *  Web		: https://github.com/PHPOffice/PHPExcels
  *  License	: LGPL (GNU LESSER GENERAL PUBLIC LICENSE)

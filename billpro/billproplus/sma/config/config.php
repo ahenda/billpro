@@ -17,7 +17,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | environments.
 |
 */
-$config['base_url'] = 'http://localhost/billproplus/';
+$config['base_url'] = 'http://localhost/billpro/billpro/billproplus/';
 
 /*
 |--------------------------------------------------------------------------
@@ -305,7 +305,7 @@ $config['cache_query_string'] = FALSE;
 | http://codeigniter.com/user_guide/libraries/encryption.html
 |
 */
-$config['encryption_key'] = '3n7Hx1Fo0UXKP5Zrhpad69IVSqjG8tDEJLyWQ';
+$config['encryption_key'] = 'ARqyiIT5DJ6dMb7E4mYSZPr0nec1sNxvuOw8a';
 
 /*
 |--------------------------------------------------------------------------
